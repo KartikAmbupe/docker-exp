@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+__pycache__/
+
+# VS Code editor
+.vscode/
